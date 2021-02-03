@@ -163,18 +163,19 @@ def main():
     st.sidebar.markdown("<hr>", unsafe_allow_html=True)
     
     st.sidebar.write("Reach Me Here!")
+
+    link = '[GitHub](https://github.com/305kishan)'
+    st.sidebar.markdown(link, unsafe_allow_html=True)
     
+    link = '[Kaggle](https://www.kaggle.com/kishan305)'
+    st.sidebar.markdown(link, unsafe_allow_html=True)
     
-    if st.sidebar.button('GitHub'):
-        webbrowser.open_new_tab('https://github.com/305kishan')
+    link = '[LinkedIn](https://www.linkedin.com/in/305kishan/)'
+    st.sidebar.markdown(link, unsafe_allow_html=True)
     
-    if st.sidebar.button('Kaggle'):
-        webbrowser.open_new_tab('https://www.kaggle.com/kishan305')
-        
-    if st.sidebar.button('LinkedIn'):
-        webbrowser.open_new_tab('https://www.linkedin.com/in/305kishan/')
+    st.sidebar.markdown("<hr>", unsafe_allow_html=True)    
     
-    
+            
     if choice == 'CLUB':
         st.header('CLUB ANALYSIS')
         st.markdown("<br>", unsafe_allow_html=True)
