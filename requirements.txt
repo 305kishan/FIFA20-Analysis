@@ -22,3 +22,5 @@ streamlit==0.74.1
 tabulate==0.8.7
 ujson==1.35
 urllib3==1.25.9
+string
+webbrowser
