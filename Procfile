@@ -1,1 +1,1 @@
-worker: sh setup.sh && streamlit run FIFA20.py
+web: sh setup.sh && streamlit run FIFA20.py
