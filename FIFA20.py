@@ -29,7 +29,8 @@ hide_streamlit_style = """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
 
-data = pd.read_csv('players_20.csv')
+url = 'https://raw.githubusercontent.com/305kishan/FIFA20-Analysis/main/players_20.csv'
+data = pd.read_csv(url,sep=",")
 
 data.drop(['sofifa_id','player_url','real_face','nation_position','nation_jersey_number','long_name']
           ,axis=1,inplace=True)
