@@ -8,3 +8,4 @@ plotly
 plotly-express==0.4.0
 seaborn==0.10.1
 streamlit
+webbrowser
