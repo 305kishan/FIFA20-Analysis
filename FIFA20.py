@@ -314,6 +314,3 @@ def main():
     
 if __name__=="__main__":
     main()
-    
-    
-pip3 freeze > requirements.txt
