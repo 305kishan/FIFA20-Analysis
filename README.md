@@ -23,10 +23,9 @@ Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.heroku
 <br>
 
 
-<div id="overview">
+
 <h2>Overview</h2>
 This Python Application Displays various statistics of Club or Country with the Help of Textual and Graphical Data.
-</div>
 
 
 <h2> Installation </h2>
