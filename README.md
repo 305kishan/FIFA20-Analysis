@@ -27,24 +27,24 @@ Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.heroku
 This Python Application Displays various statistics of Club or Country with the Help of Textual and Graphical Data.
 </div>
 
-## Installation
+<h2> Installation </h2>
 This code can run on any PYTHON 3 version. If you want to run this on your local machine but don't have Python, please install Python 3 first. To install required packages and library, run this command in project directory after cloning the the repository.
             pip install -r requirements.txt
             
-## Run
+<h2> Run </h2>
 On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url
 
 <div id="heroku">
-## Heroku Deployement
+    <h2> Heroku Deployement </h2>
 Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis). </div>
 
 <div id="todo">
-## To Do
+    <h2> To Do </h2>
 <li>To Add FIFA 21 Database.
 <li>Compare Teams and Players. </div>
 
 <div id="technologies">            
-## Technologies Used
+    <h2> Technologies Used </h2>
 1. Python (Data Analysis)
 2. StreamLit (For Creating this Web App)
 3. HTML
