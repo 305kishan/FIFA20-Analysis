@@ -42,14 +42,12 @@ On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-A
 Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis). </div>
 
 
-<div id="todo">
-    <h2> To Do </h2>
+<h2> To Do </h2>
 <li>To Add FIFA 21 Database.
 <li>Compare Teams and Players. </div>
 
-
-<div id="technologies">            
-    <h2> Technologies Used </h2>
+           
+<h2> Technologies Used </h2>
 <li> Python (Data Analysis)
 <li> StreamLit (For Creating this Web App)
 <li> HTML
