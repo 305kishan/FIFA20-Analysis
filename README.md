@@ -45,8 +45,8 @@ Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repos
 
 <div id="technologies">            
     <h2> Technologies Used </h2>
-1. Python (Data Analysis)
-2. StreamLit (For Creating this Web App)
-3. HTML
-4. Markdown
-5. Web Deployement (Heroku) </div>
+<ol> Python (Data Analysis)
+<ol> StreamLit (For Creating this Web App)
+<ol> HTML
+<ol> Markdown
+<ol> Web Deployement (Heroku) </div>
