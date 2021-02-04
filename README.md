@@ -9,7 +9,7 @@ Web Application for Teams (Clubs & Countries) Analysis in FIFA 20 Video Game. <b
 Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.herokuapp.com/)
 
 
-<h2>Table of contents</h2>
+## Table of contents
 <div style="margin-top: 10px">
     <ol>
         <li><a href="#overview">Overview</a></li>
@@ -24,30 +24,30 @@ Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.heroku
 
 
 
-<h2>Overview</h2>
+## Overview
 This Python Application Displays various statistics of Club or Country with the Help of Textual and Graphical Data.
 
 
-<h2> Installation </h2>
+## Installation 
 This code can run on any PYTHON 3 version. If you want to run this on your local machine but don't have Python, please install Python 3 first. To install required packages and library, run this command in project directory after cloning the the repository.
 ```pip install -r requirements.txt```
 
 
-<h2> Run </h2>
+## Run 
 On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url
 
 
-<div id="heroku deployement">
-<h2> Heroku Deployement </h2>
+
+## Heroku Deployement
 Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis). </div>
 
 
-<h2> To Do </h2>
+## To Do
 <li>To Add FIFA 21 Database.
 <li>Compare Teams and Players. </div>
 
            
-<h2> Technologies Used </h2>
+## Technologies Used
 <li> Python (Data Analysis)
 <li> StreamLit (For Creating this Web App)
 <li> HTML
