@@ -30,7 +30,7 @@ This Python Application Displays various statistics of Club or Country with the 
 
 <h2> Installation </h2>
 This code can run on any PYTHON 3 version. If you want to run this on your local machine but don't have Python, please install Python 3 first. To install required packages and library, run this command in project directory after cloning the the repository.
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
             
 <h2> Run </h2>
 On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url
