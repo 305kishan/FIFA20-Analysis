@@ -11,7 +11,7 @@ Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.heroku
 
 <h2>Table of contents</h2>
 
-<div class="alert alert-block alert-info" style="margin-top: 10px">
+<div style="margin-top: 10px">
     <ol>
         <li><a href="#overview">Overview</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -24,13 +24,13 @@ Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.heroku
 <br>
 
 <div id="about_dataset">
-            <h2>Overview</h2>
+<h2>Overview</h2>
 This Python Application Displays various statistics of Club or Country with the Help of Textual and Graphical Data.
 </div>
 
 <h2> Installation </h2>
 This code can run on any PYTHON 3 version. If you want to run this on your local machine but don't have Python, please install Python 3 first. To install required packages and library, run this command in project directory after cloning the the repository.
->pip install -r requirements.txt
+`pip install -r requirements.txt`
             
 <h2> Run </h2>
 On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url
