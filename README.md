@@ -34,16 +34,19 @@ This code can run on any PYTHON 3 version. If you want to run this on your local
 ## Run
 On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url
 
+<div id="heroku">
 ## Heroku Deployement
-Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis).
+Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis). </div>
 
+<div id="todo">
 ## To Do
 <li>To Add FIFA 21 Database.
-<li>Compare Teams and Players.
-            
+<li>Compare Teams and Players. </div>
+
+<div id="technologies">            
 ## Technologies Used
 1. Python (Data Analysis)
 2. StreamLit (For Creating this Web App)
 3. HTML
 4. Markdown
-5. Web Deployement (Heroku)
+5. Web Deployement (Heroku) </div>
