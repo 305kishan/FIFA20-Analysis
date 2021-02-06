@@ -9,7 +9,7 @@ Web Application for Teams (Clubs & Countries) Analysis in FIFA 20 Video Game. <b
 Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.herokuapp.com/)
 
 
-## Table of contents
+## Table of Content
 <div style="margin-top: 10px">
     <ol>
         <li><a href="#overview">Overview</a></li>
