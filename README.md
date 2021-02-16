@@ -38,9 +38,9 @@ On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-A
 
 
 ## Heroku Deployement
-Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis). </div>
+Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repository](https://github.com/305kishan/FIFA20-Analysis).
 
 
 ## To Do
 <li>To Add FIFA 21 Database.
-<li>Compare Teams and Players. </div>
+<li>Compare Teams and Players.
