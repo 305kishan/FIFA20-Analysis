@@ -45,11 +45,3 @@ Create a new app in [Heroku](https://www.heroku.com/) and link the [Github Repos
 ## To Do
 <li>To Add FIFA 21 Database.
 <li>Compare Teams and Players. </div>
-
-           
-## Technologies Used
-<li> Python (Data Analysis)
-<li> StreamLit (For Creating this Web App)
-<li> HTML</li>
-<li> Markdown
-<li> Web Deployement (Heroku) </div>
