@@ -33,7 +33,7 @@ This code can run on any PYTHON 3 version. If you want to run this on your local
 
 
 ## Run 
-On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url
+On your local machine, run <b> [FIFA20.py](https://github.com/305kishan/FIFA20-Analysis/blob/main/FIFA20.py) </b> in your command prompt and then use the the IP address to access the Url. 
 
 
 
