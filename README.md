@@ -12,12 +12,11 @@ Application Link &nbsp;-&nbsp; [FIFA 20 Analysis](https://analysis-fifa20.heroku
 ## Table of Content
 <div style="margin-top: 10px">
     <ol>
-        <li><a href="#overview">Overview</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#run">Run Locally</a></li>
-        <li><a href="#heroku deployement">Heroku Deployement</a></li>
-        <li><a href="#todo">To Do</a></li>
-        <li><a href="#technologies">Technologies Used</a></li>
+        <li><a href="#Overview">Overview</a></li>
+        <li><a href="#Installation">Installation</a></li>
+        <li><a href="#Run">Run Locally</a></li>
+        <li><a href="#Heroku Deployement">Heroku Deployement</a></li>
+        <li><a href="#To Do">To Do</a></li>
     </ol>
 </div>
 <br>
